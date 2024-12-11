@@ -3,7 +3,7 @@ Intercoder-Reliability
 
 [Hello-World-Reliability](https://github.com/tacticstactics/Intercoder-Reliability/blob/e1bb349a76f2fd55ace4a4aa438a85ad9ca695d4/Hello-World-Reliability.ipynb)
 
-Convert string 'Hello Workd' to binary, and create analog data. 
+Convert string 'Hello Workd' to binary, and create analog data. AThe analog data are processed using gaussian / buterworth filter.
 
 ![1](https://github.com/user-attachments/assets/57b0cf69-74a7-4441-9e89-e630dc2aad35)
 
