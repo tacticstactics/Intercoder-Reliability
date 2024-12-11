@@ -1,5 +1,5 @@
 # Intercoder-Reliability
-Intercoder-Reliability
+Intercoder-Reliability(ICR) Test Emulation.
 
 [Hello-World-Reliability](https://github.com/tacticstactics/Intercoder-Reliability/blob/e1bb349a76f2fd55ace4a4aa438a85ad9ca695d4/Hello-World-Reliability.ipynb)
 
