@@ -5,8 +5,10 @@ Intercoder-Reliability(ICR) Test Emulation.
 
 Convert string (e.g. 'Hello World') to binary, and create analog data as ndarray.<br>
 The ndarray is processed by gaussian / buterworth filter.<br>
+<br>
 When using Scipy's signal.windows.gaussinan, convolve was used.<br>
 When using signal.butter, lfilter was used.<br>
+<br>
 Filtered ndarray is again converted to binary.<br>
 The binary is again converted to string.<br>
 Compare the two strings, and judge if transmission was successful or not.<br>
