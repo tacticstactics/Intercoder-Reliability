@@ -1,5 +1,6 @@
 # Intercoder-Reliability
-Intercoder-Reliability(ICR) Test Emulation.
+Intercoder-Reliability(ICR) Test Emulation.<br>
+Convert the string to binary data and consider whether the filtering process conveys the string accurately.<br>
 
 [Hello-World-Reliability](https://github.com/tacticstactics/Intercoder-Reliability/blob/e1bb349a76f2fd55ace4a4aa438a85ad9ca695d4/Hello-World-Reliability.ipynb)
 
