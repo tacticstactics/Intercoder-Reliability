@@ -14,8 +14,9 @@ Filtered ndarray is again converted to binary.<br>
 The binary is again converted to string.<br>
 Compare the two strings, and judge if transmission was successful or not.<br>
 
-
-
+Gaussian Filter<br>
+![gaussian1](https://github.com/user-attachments/assets/8c08106e-7de9-4ce9-abd8-51ce141bc4e2)
+![gaussian2](https://github.com/user-attachments/assets/1293ac97-c6ae-43ad-abe8-690e8208858e)
 
 Butterworth Filter<br>
 ![1](https://github.com/user-attachments/assets/8dd5d73d-691c-4684-b533-7da67fa73082)
