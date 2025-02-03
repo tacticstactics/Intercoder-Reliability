@@ -7,8 +7,8 @@ Convert the string to binary data and consider whether the filtering process con
 Convert string (e.g. 'Hello World') to binary, and create analog data as ndarray, e.g. 01001000...<br>
 The ndarray is processed by filters (e.g. gaussian / buterworth).<br>
 <br>
-When using Scipy's signal.windows.gaussinan, convolve was used.<br>
-When using signal.butter, lfilter was used.<br>
+For Scipy's signal.windows.gaussinan, convolve was used.<br>
+For signal.butter, lfilter was used.<br>
 <br>
 Filtered ndarray is again converted to binary.<br>
 The binary is again converted to string.<br>
