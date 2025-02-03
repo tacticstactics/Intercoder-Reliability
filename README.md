@@ -10,9 +10,8 @@ The ndarray is processed by filters (e.g. gaussian / buterworth).<br>
 For Scipy's signal.windows.gaussinan, convolve was used.<br>
 For signal.butter, lfilter was used.<br>
 <br>
-Filtered ndarray is again converted to binary.<br>
-The binary is again converted to string.<br>
-Compare the two strings, and judge if transmission was successful or not.<br>
+The filtered ndarray is again converted to binary, and then to string.<br>
+In the end compare the two strings, and judge if overall transmission was successful or not.<br>
 
 Gaussian Filter<br>
 ![gaussian1](https://github.com/user-attachments/assets/8c08106e-7de9-4ce9-abd8-51ce141bc4e2)
